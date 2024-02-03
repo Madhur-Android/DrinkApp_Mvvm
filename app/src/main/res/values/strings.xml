@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Drink</string>
+    <string name="turf_cocktail">Turf Cocktail</string>
+    <string name="let_s_eat_n_quality_food">Let\'s Eat \nQuality food</string>
+    <string name="search">Search</string>
+    <string name="near_restaurant">Near Restaurant</string>
+    <string name="see_all">See all</string>
+    <string name="blue_restaurant">Blue Restaurant</string>
+    <string name="_10_00am_03_30pm">10:00AM- 03:30PM</string>
+    <string name="steve_st_road">Steve ST Road</string>
+    <string name="_4_5">4.5</string>
+    <string name="view"><![CDATA[>]]></string>
+    <string name="long_vodka">Long Vodka</string>
+    <string name="about">About Drink</string>
+    <string name="alcoholic">Alcoholic</string>
+    <string name="ordinary_drink">Ordinary Drink</string>
+    <string name="cocktail_glass">Cocktail glass</string>
+    <string name="drink_instructions">Drink Instructions</string>
+    <string name="instruction">Shake all ingredients (except lemon peel) with ice and strain into a cocktail glass. Top with the twist of lemon peel and serve.</string>
+    <string name="drink_ingredients">Drink Ingredients</string>
+    <string name="ingredient_1_dry_vermouth">Ingredient 1 : Dry Vermouth</string>
+    <string name="drink_measures">Drink Measures</string>
+    <string name="measure_1_1_oz">Measure 1: 1 oz</string>
+</resources>
